@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimkoApp</string>
+
+    <string name="dummy_button">Simone button</string>
+    <string name="dummy_content">Simone\nBalboni\tCiao!</string>
+</resources>
